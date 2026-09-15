@@ -1,4 +1,4 @@
-# Hej!, I'm Aga, 運命は変えるためにある👋🏻
+# Hej!, I'm Aga 👋🏻
 📚 currently studying software engineering  at Institut Teknologi Sepuluh Nopember<br>👨🏼‍💻 being a researcher based on Indonesia 🇮🇩 and already collaborating w/ others 🇲🇾🇹🇱🇦🇺<br>🎬 just started out with my youtube channel soon
 
 
