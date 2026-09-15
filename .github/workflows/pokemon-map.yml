@@ -22,9 +22,9 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: "Gracidea - a Pokemon live map by @lowlighter"
           plugin_screenshot_url: https://gracidea.lecoq.io/
-          plugin_screenshot_selector: canvas
+          plugin_screenshot_selector: body
           plugin_screenshot_mode: image
           plugin_screenshot_background: yes
-          plugin_screenshot_wait: 15000
+          plugin_screenshot_wait: 25000
           plugin_screenshot_viewport: |
             {"width": 1000, "height": 480}
